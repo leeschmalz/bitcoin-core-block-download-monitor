@@ -3,7 +3,7 @@
 This script helps monitor the progress of the initial block download (IBD) of Bitcoin Core.
 
 ## Example Outputs
-
+```
 Update Time: 20:45
 Current Block: 777820
 Total Blocks: 849628
@@ -34,5 +34,6 @@ Synced 952 in 5.01 mins
 Rate: 3.16 blocks/s
 Progress by Block Count: 91.77%
 Progress by Core Report: 77.53%
+```
 
 ============================================================
