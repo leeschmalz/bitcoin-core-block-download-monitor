@@ -35,5 +35,3 @@ Rate: 3.16 blocks/s
 Progress by Block Count: 91.77%
 Progress by Core Report: 77.53%
 ```
-
-============================================================
