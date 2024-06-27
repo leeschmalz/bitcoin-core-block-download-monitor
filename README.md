@@ -1,6 +1,8 @@
-run this to monitor the progress of bitcoin core initial block download
+# Bitcoin Core Initial Block Download Monitor
 
-example outputs:
+This script helps monitor the progress of the initial block download (IBD) of Bitcoin Core.
+
+## Example Outputs
 
 Update Time: 20:45
 Current Block: 777820
